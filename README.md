@@ -8,3 +8,6 @@ I am learning Git and version control on Day 1 of my internship.
 
 
 Today I learned basic Git commands.
+
+
+Excited to start my internship journey 🚀
